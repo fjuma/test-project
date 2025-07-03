@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.4](https://github.com/fjuma/test-project/compare/v0.2.3...v0.2.4) (2025-07-03)
+
+
+### Bug Fixes
+
+* test ([e6cbdc8](https://github.com/fjuma/test-project/commit/e6cbdc807c9b9c2e3abba25827fac43fa9f3660f))
+
 ## [0.2.3](https://github.com/fjuma/test-project/compare/v0.2.3...v0.2.3) (2025-07-03)
 
 
