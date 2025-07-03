@@ -4,7 +4,7 @@
 
   <groupId>com.example</groupId>
   <artifactId>helloworld</artifactId>
-  <version>0.2.4-SNAPSHOT</version>
+  <version>0.2.5</version>
 
   <name>helloworld</name>
   <!-- FIXME change it to the project's website -->
