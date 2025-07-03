@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * Hello world!
+ * Hello world app!
  */
 public class App {
     public static void main(String[] args) {
