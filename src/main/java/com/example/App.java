@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * Hello world app! Test. Another test. Testing.
+ * Hello world app! Test. Another test. Testing. Testing.
  */
 public class App {
     public static void main(String[] args) {
